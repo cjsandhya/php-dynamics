@@ -1,0 +1,23 @@
+php-dynamics
+============
+
+PHP-Dynamics is a PHP library to integrate with Microsoft Dynamics NAV 2009 ERP
+software solution.
+
+Communication with Dynamics NAV is achieved via Webservices.
+
+    http://code.google.com/p/php-dynamics/
+
+Requirements
+  * Microsoft Dynamics NAV 2009
+  * Apache2/IIS
+  * PHP > 5.2
+    * SimpleXML
+    * SOAP
+    * CURL
+
+Installation
+
+
+
+
